@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zotero 论文检索入库"
+  short_description: "按阅读方向检索高质量论文并写入 Zotero From_codex 集合"
+  default_prompt: "Use $zotero-find to find a high-quality paper for my reading direction and add it to Zotero From_codex."

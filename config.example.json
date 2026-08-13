@@ -1,0 +1,37 @@
+{
+  "zotero": {
+    "base_url": "http://127.0.0.1:23119",
+    "data_dir": "/path/to/zotero/data"
+  },
+  "obsidian": {
+    "vault_dir": "/path/to/obsidian/vault",
+    "literature_dir": "/path/to/obsidian/vault/Literature"
+  },
+  "collections": {
+    "to_read": "From_codex"
+  },
+  "venues": {
+    "conferences": [
+      "ICRA", "IROS", "ICCV", "CVPR", "ECCV", "3DV", "RSS",
+      "ICLR", "ICML", "NeurIPS", "IJCAI", "AAAI"
+    ],
+    "accept_ieee_transactions": true,
+    "ccf_ab_journals": [
+      "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+      "International Journal of Computer Vision",
+      "IEEE Transactions on Robotics",
+      "IEEE Transactions on Neural Networks and Learning Systems",
+      "IEEE Transactions on Image Processing",
+      "IEEE Transactions on Cybernetics",
+      "IEEE Transactions on Multimedia",
+      "Pattern Recognition",
+      "IEEE Robotics and Automation Letters",
+      "Journal of Field Robotics",
+      "Autonomous Robots"
+    ]
+  },
+  "search": {
+    "max_candidates": 30,
+    "top_n": 1
+  }
+}

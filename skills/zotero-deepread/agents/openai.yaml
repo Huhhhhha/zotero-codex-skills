@@ -1,0 +1,4 @@
+interface:
+  display_name: "Zotero 论文精读"
+  short_description: "精读 Zotero 库中论文并生成 nature-reader 全文对照附件到 Obsidian"
+  default_prompt: "Use $zotero-deepread to deep-read a paper in my Zotero library and save a nature-reader attachment to Obsidian."
